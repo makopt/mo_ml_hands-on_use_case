@@ -20,7 +20,7 @@ This repository contains Jupyter notebooks and associated files for hands-on mac
 To get started, open the PDF docuemnt and Jupyter notebooks and follow the instructions provided within each notebook.
 
 ## Requirements
-- Jupyter Notebook
+- Jupyter Notebook!
 - pandas
 - numpy
 - matplotlib
